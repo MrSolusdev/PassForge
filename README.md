@@ -20,8 +20,8 @@
 ## Запуск
 
 ```bash
-git clone https://github.com/MrSolus-Loner/genpassword.git
-cd genpassword
+git clone https://github.com/MrSolusdev/PasswordGen.git
+cd PasswordGen
 ```
 
 ```bash
