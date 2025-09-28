@@ -1,33 +1,44 @@
-# Генератор Паролей на Tkinter
+# 🔐 PassForge (Tkinter)
 
-**👨‍💻 Автор:** Лонер | **Telegram:** [@i_o_ekobo](https://t.me/i_o_ekobo)
+**👨‍💻 Author:** Loner | **Telegram:** [@i_o_ekobo](https://t.me/i_o_ekobo)
 
-## Описание
+## 📖 Description
 
-Это простое настольное приложение для генерации безопасных паролей, написанное на Python с использованием библиотеки Tkinter. Программа позволяет гибко настраивать параметры пароля: длину, включение букв, цифр, символов и специальных символов.
+A simple desktop application for generating secure passwords, built with Python and Tkinter.
+The program allows you to easily customize password parameters such as length, letters, digits, symbols, and special characters.
 
-## Возможности
-- Выбор длины пароля
-- Включение/отключение:
-  - Букв (A-Z, a-z)
-  - Цифр (0-9)
-  - Символов (!@#$%^&*()_+=-)
-  - Спецсимволов (№;%:?*)
-- Генерация пароля одной кнопкой
-- Копирование сгенерированного пароля в буфер обмена
-- Удобный графический интерфейс
+## ✨ Features
 
-## Запуск
+- **Adjustable password length**
+- **Enable/disable character groups:**
+  - Letters (A–Z, a–z)
+  - Digits (0–9)
+  - Symbols (!@#$%^&*()_+=-)
+  - Specials (№;%:?*)
+- **One-click password generation**
+- **Copy generated password to clipboard**
+- **Clean and user-friendly graphical interface**
+
+## 🚀 Installation & Run
+
+Clone the repository:
 
 ```bash
-git clone https://github.com/MrSolusdev/PasswordGen.git
-cd PasswordGen
+git clone https://github.com/MrSolusdev/PassForge.git
+cd PassForge
 ```
+
+Run the app:
 
 ```bash
 python gen.py
 ```
 
----
+## 🤝 Contributing
 
-Если возникли вопросы или предложения — пишите! 
+Found a bug or want to suggest a feature?
+Feel free to open an issue or submit a pull request.
+
+## 📜 License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details. 
